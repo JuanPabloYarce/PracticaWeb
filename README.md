@@ -1,3 +1,3 @@
 # PracticaWeb
 Mi primer repositorio
-Buenas gente, no soy muy listo pero se hace lo que se puede
+Aqui estarán almacenados todos los archivos relacionados a la practica final de tecnicas de programación.
